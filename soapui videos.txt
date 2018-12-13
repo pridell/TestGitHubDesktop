@@ -1,0 +1,3 @@
+https://support.smartbear.com/ready-api/videos/
+
+https://support.smartbear.com/ready-api/soapui-ng/videos/
